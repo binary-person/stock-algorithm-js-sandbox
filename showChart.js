@@ -60,15 +60,6 @@ function generateChart(canvas, labels, stockData, buyDecision, sellDecision){
                 display: true,
                 text: 'Results'
             },
-            options: {
-                scales: {
-                    yAxes: [{
-                        ticks: {
-                            reverse: true,
-                        }
-                    }]
-                }
-            },
             maintainAspectRatio: false
         }
     });

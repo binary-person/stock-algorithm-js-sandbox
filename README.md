@@ -1,6 +1,6 @@
 # Stock Algorithm JS Sandbox
 
-[Click here](https://scheng123.github.io/stock-algorithm-js-sandbox/) to access the published product.
+[Click here](https://binary-person.github.io/stock-algorithm-js-sandbox/) to access the published product.
 
 To host the website, serve the files in the root project directory, like so:
 ```
